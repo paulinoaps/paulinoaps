@@ -1,0 +1,199 @@
+body {
+    background-color: black;
+    
+}
+footer{
+    position: relative;
+    bottom: 0%;
+    text-align: center;
+    color: lime;
+    width: 100%;
+}
+.contheader{
+    display: flex;
+    width: 100%;
+}
+p {
+    color: white;
+}
+h1 {
+    color: red;
+}
+h3 {
+    color: lime;
+}
+h5 {
+    color: red;
+}
+label {
+    color: white;
+}
+li{
+    color: white;
+}
+.img-thumbnail {
+    width: 200px;
+    height: 200px;
+}
+.text-center{
+    width: 100%;
+}
+.nav-link {
+    color: rgb(33, 140, 240);
+}
+a {
+    color: white;
+}
+.imgicon{
+    width: 30px;
+}
+button {
+    width: 45%;
+}
+#login{
+    float: right;
+}
+#btnesq {
+    width: 1%;
+    height: 0%;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    position: fixed; /* Posição fixa em relação à janela do navegador */
+    bottom: 5%; /* Distância do botão ao rodapé */
+    left: 5px; /* Distância do botão à direita */
+    z-index: 1000; /* Z-index alto para ficar acima de outros elementos */
+    padding: 10px 10px;
+    background-color: #000000;
+    border: none;
+	border-color: lime;
+    border-radius: 50%;
+}
+#btndir {
+    width: 1%;
+    height: 0%;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    position: fixed; /* Posição fixa em relação à janela do navegador */
+    bottom: 5%; /* Distância do botão ao rodapé */
+    left: 40px; /* Distância do botão à direita */
+    z-index: 1000; /* Z-index alto para ficar acima de outros elementos */
+    padding: 10px 10px;
+    background-color: #000000;
+    border: none;
+	border-color: lime;
+    border-radius: 50%;
+}
+mark{
+    background-color: black;
+} 
+/* Estilos para a lista de itens do menu */
+.menu-escondido ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu-escondido li {
+    margin: 5px 0;
+}
+/* Estilos para o botão */
+#botao-menu {
+    display: none;
+}
+.menu-escondido1 ul {
+    display: none;
+    list-style-type: none;
+    padding: 0;
+}
+.menu-escondido li {
+    margin: 5px 0;
+}
+/* Estilos para telas menores (por exemplo, smartphones) */
+@media screen and (max-width: 768px) {
+    .menu-escondido ul {
+        display: none;
+        list-style-type: none;
+        padding: 0;
+    }
+    .menu-escondido li {
+        margin: 5px 0;
+    }
+    .menu-escondido1 ul {
+        display: flex;
+        list-style-type: none;
+        padding: 0;
+    }
+    .menu-escondido1 li {
+        margin: 5px 0;
+    }
+
+    /* Esconda o texto do botão por padrão */
+    .nav-item span {
+        display: none;
+    }
+
+    /* Mostre o texto do botão quando o mouse passar por cima */
+    .nav-item:hover span {
+        display: inline;
+    }
+    #botao-menu {
+    display: block;
+    background-color: #000000;
+    color: #fff;
+    cursor: pointer;
+    position: fixed; /* Posição fixa em relação à janela do navegador */
+    left: 5px; /* Distância do botão à direita */
+    z-index: 1000; /* Z-index alto para ficar acima de outros elementos */
+    width: 1%;
+    height: 0%;
+    bottom: 5%; /* Distância do botão ao rodapé */
+    padding: 10px 10px;
+    border: none;
+	border-color: lime;
+    border-radius: 50%;
+    }
+    #btnesq {
+    width: 1%;
+    height: 0%;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    position: fixed; /* Posição fixa em relação à janela do navegador */
+    bottom: 5%; /* Distância do botão ao rodapé */
+    left: 40px; /* Distância do botão à direita */
+    z-index: 1000; /* Z-index alto para ficar acima de outros elementos */
+    padding: 10px 10px;
+    background-color: #000000;
+    border: none;
+	border-color: lime;
+    border-radius: 50%;
+    }
+    #btndir {
+    width: 1%;
+    height: 0%;
+    color: #fff;
+    cursor: pointer;
+    position: fixed; /* Posição fixa em relação à janela do navegador */
+    bottom: 5%; /* Distância do botão ao rodapé */
+    left: 75px; /* Distância do botão à direita */
+    z-index: 1000; /* Z-index alto para ficar acima de outros elementos */
+    padding: 10px 10px;
+    background-color: #000000;
+    border: none;
+	border-color: lime;
+    border-radius: 50%;
+    }
+
+}
+
+hahed27751@zamaneta.com
+
+https://x10hosting.com/account/verify?email=hahed27751%40zamaneta.com&verificationId=00006540-0439-5d8b-3e3e-702475e59ac6
+
+render.com
+
+nextlify.com 
+
+vercel.com
+
