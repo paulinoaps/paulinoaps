@@ -1,5 +1,5 @@
-<h4>Olá, eu sou o Paulino. Meu nome completo é Alexandre Paulino da Silva. Mas as pessoas costumam me chamar de Paulino mesmo. 
-Você pode ficar a vontade!</h4>
+<h3>Olá, eu sou o Paulino. Meu nome completo é Alexandre Paulino da Silva. Mas as pessoas costumam me chamar de Paulino mesmo. 
+Você pode ficar a vontade!</h3>
 <p>Possuo mais de 10 anos de atividade no mercado de trabalho em diferentes áreas.
 <br>
 Minha formação é em grande parte na área de tecnologia e administração.
